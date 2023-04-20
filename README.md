@@ -1,4 +1,4 @@
-# ITI-Summer-Training-Computer-Vision-
+# ITI-Summer-Training-Computer-Vision
 (Labs answers - Tasks - Projects)
 
 Content:
